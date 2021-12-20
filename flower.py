@@ -1,6 +1,6 @@
 """
 Hello
-My name is Bailey Nichols and this is a fibonacci flower
+My name is Bailey Nichols and this is a flower
 1/10/2021
 """
 x, y = 1, 1
